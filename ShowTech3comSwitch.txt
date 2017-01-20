@@ -1,0 +1,4 @@
+1. _cmdline-mode on
+2. y
+3. Jinhua1920unauthorized
+4. display diagnostic-information
