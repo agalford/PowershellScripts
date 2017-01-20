@@ -1,4 +1,8 @@
+In Putty, first go to Window and change lines of scrollback to 20,000
+
+
 1. _cmdline-mode on
 2. y
 3. Jinhua1920unauthorized
 4. display diagnostic-information
+5. n
